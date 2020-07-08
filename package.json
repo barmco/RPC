@@ -29,6 +29,7 @@
     "prepublishOnly": "npm run lint && npm run build:browser"
   },
   "dependencies": {
+    "lodash": "^4.17.17",
     "node-fetch": "2.6.0",
     "ws": "7.1.2"
   },
